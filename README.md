@@ -1,3 +1,1 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+Lifeline Tech is a real-time medical availability tracking web application that helps users find nearby pharmacies with required medicines using GPS and live data. It features an interactive map, emergency mode, and an admin panel for managing inventory, improving healthcare accessibility and response time.
